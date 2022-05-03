@@ -27,12 +27,8 @@ This will give the updated version of the plots. They are in the "plots" folder
 
 
 # Billy-Hatcher-S-Rank-Plots
-""" 
 Billy Hatcher scoreboards, turned into plots with score/clear time/rank
 (jupyter notebook put together by fleedle_deedle, 15 Dec 2021)
-
-Google Sheet (the CSV) with all the most recent scoreboard data: 
-https://docs.google.com/spreadsheets/d/1EPOkUzAVbZkwTmy9fTVmbnpnm5Eh7poHXCw-IXjz904/edit?usp=sharing
 
 This code imports all the data on the "Mission Result" screen 
 from a CSV and puts it into a DataFrame. This lets us pull specific 
@@ -60,4 +56,3 @@ and/or a function or two, using an array of all the mission names.
 It would also be good to have 1 or 2 non-S ranks for every mission in
 the CSV so that it plots properly and I don't have to forget about
 which lines have the data replotted from the previous plot.
-""";
