@@ -7,7 +7,8 @@
 
 
 2) Download latest version of CSV with scoreboard data
-https://docs.google.com/spreadsheets/d/1EPOkUzAVbZkwTmy9fTVmbnpnm5Eh7poHXCw-IXjz904/edit?usp=sharing (this link is in the first block of "allScoreboards-lazycode.ipynb")
+https://docs.google.com/spreadsheets/d/1EPOkUzAVbZkwTmy9fTVmbnpnm5Eh7poHXCw-IXjz904/edit?usp=sharing 
+(this link is in the first block of "allScoreboards-lazycode.ipynb")
 
 File > Download > CSV
 Save as "all-levels.csv"
