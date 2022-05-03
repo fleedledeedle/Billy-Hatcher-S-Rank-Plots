@@ -55,7 +55,7 @@ plot would have stairs on scores 8100, 6800, and 4200.
 
 I could definitely make this code much cleaner with a Python loop
 and/or a function or two, using an array of all the mission names.
-[Forest 1, Forest 2, Forest 3, Forest 4, Forest 5, Forest 6, Forest 7, Forest 8, Pirate 1, Pirate 2, Pirate 3, Pirate 4, Pirate 5, Pirate 6, Pirate 7, Pirate 8, Dino 1, Dino 2, Dino 3, Dino 4, Dino 5, Dino 6, Dino 7, Dino 8, Blizzard 1, Blizzard 2, Blizzard 3, Blizzard 4, Blizzard 5, Blizzard 6, Blizzard 7, Blizzard 8, Circus 1, Circus 2, Circus 3, Circus 4, Circus 5, Circus 6, Circus 7, Circus 8, Sand 1, Sand 2, Sand 3, Sand 4, Sand 5, Sand 6, Sand 7, Sand 8, Giant Palace 1, Giant Palace 2, Giant Palace 3, Giant Palace 4, Giant Palace 5, Giant Palace 6, Giant Palace 7, Giant Palace 8]
+(as listed in "mission-names.txt")
 
 It would also be good to have 1 or 2 non-S ranks for every mission in
 the CSV so that it plots properly and I don't have to forget about
