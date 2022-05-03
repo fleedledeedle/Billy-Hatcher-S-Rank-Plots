@@ -49,6 +49,10 @@ The horizontal line would turn down when there is an S rank below it
 drawn from right to left. For example, a staircase on the Forest 1 
 plot would have stairs on scores 8100, 6800, and 4200. 
 
+Another idea could be to mark an S-rank point on the plot with the least 
+number of additional "moves" used to combo in the scoreboard ("Driver,"	
+"Dunk,"	"Shoot") by adding another circle around the point.
+
 I could definitely make this code much cleaner with a Python loop
 and/or a function or two, using an array of all the mission names.
 (as listed in "mission-names.txt")
