@@ -1,6 +1,8 @@
 # Run through command line
-0) Install Anaconda to use python script on your computer: (google "anaconda python installation")  
-Or install matplotlib and pandas libraries for a python installation that you already have: ("pip install matplotlib, pip install pandas")  
+0) Install Anaconda to use the python script on your computer: (google "anaconda python installation")  
+Or install matplotlib and pandas libraries for a python installation that you already have: 
+> pip install matplotlib
+> pip install pandas 
 Or use Jupyter notebook in your browser: https://jupyter.org/try
 
 
