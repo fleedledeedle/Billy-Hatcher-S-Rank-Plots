@@ -1,5 +1,7 @@
 # Run through command line
-0) Install python3 and Jupyter (will link a better tutorial, for now just google)
+0) Install Anaconda to use python script on your computer: (google "anaconda python installation")
+Or install matplotlib and pandas libraries for a python installation that you already have: ("pip install matplotlib, pip install pandas")
+Or use Jupyter notebook in your browser: https://jupyter.org/try
 
 
 1) Clone repository to your computer:
@@ -9,24 +11,20 @@
 2) Download latest version of CSV with scoreboard data
 https://docs.google.com/spreadsheets/d/1EPOkUzAVbZkwTmy9fTVmbnpnm5Eh7poHXCw-IXjz904/edit?usp=sharing 
 (this link is in the first block of "allScoreboards-lazycode.ipynb")
-
-File > Download > CSV
+File > Download > CSV, 
 Save as "all-levels.csv"
 
 
-3) Open Jupyter notebook:
-> jupyter notebook 
-
-That opens browser window. Open "allScoreboards-lazycode.ipynb"
-
-
-4) Run the code:
-Cell > Run All
+3) Run the python script: "python makeAllPlotsScript-global.py"
+Or open Jupyter notebook: "allScoreboards-edf-function-attempt.ipynb" Then run the code with "Cell > Run All"
 
 This will give the updated version of the plots. They are in the "plots" folder
 
 
 # Billy-Hatcher-S-Rank-Plots
+
+![Example Plot](https://raw.githubusercontent.com/fleedledeedle/Billy-Hatcher-S-Rank-Plots/main/plots/BH1-1-Forest1Ranks.png)
+
 Billy Hatcher scoreboards, turned into plots with score/clear time/rank
 (jupyter notebook put together by fleedle_deedle, 15 Dec 2021)
 
