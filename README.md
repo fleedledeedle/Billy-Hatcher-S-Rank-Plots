@@ -2,7 +2,8 @@
 0) Install Anaconda to use the python script on your computer: (google "anaconda python installation")  
 Or install matplotlib and pandas libraries for a python installation that you already have:  
 > pip install matplotlib  
-> pip install pandas  
+> pip install pandas   
+
 Or use Jupyter notebook in your browser: https://jupyter.org/try
 
 
@@ -25,7 +26,7 @@ This will give the updated version of the plots. They are in the "plots" folder
 
 # Billy-Hatcher-S-Rank-Plots
 
-![Example Plot](https://raw.githubusercontent.com/fleedledeedle/Billy-Hatcher-S-Rank-Plots/main/plots/BH1-1-Forest1Ranks.png)
+<img src="https://raw.githubusercontent.com/fleedledeedle/Billy-Hatcher-S-Rank-Plots/main/plots/BH1-1-Forest1Ranks.png" width="320" height="240">
 
 Billy Hatcher scoreboards, turned into plots with score/clear time/rank
 (jupyter notebook put together by fleedle_deedle, 15 Dec 2021)
